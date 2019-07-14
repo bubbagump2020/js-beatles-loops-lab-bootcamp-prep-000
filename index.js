@@ -11,7 +11,8 @@ function johnLennonFacts(facts){
   let i = 0
   var bigFacts = []
   while(i < facts.length){
-    bigFacts[] = facts[] +"!!!"
+    bigFacts[i] = facts[i] +"!!!"
+    i++
   }
   return bigFacts
 }
