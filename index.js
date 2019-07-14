@@ -16,3 +16,11 @@ function johnLennonFacts(facts){
   }
   return bigFacts
 }
+
+function iLoveTheBeatles(number){
+  var newArray = []
+  let i = 0
+  do{
+    
+  }while(number < 15)
+}
